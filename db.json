@@ -1,0 +1,589 @@
+{
+    "categories": [
+        {
+            "id": "1401fd82-1b66-4b51-aa00-2d5628e5db1e",
+            "name": "Sleek Plastic Mouse",
+            "createdAt": 1670334871600,
+            "updateAt": 1670334871600
+        },
+        {
+            "id": "d16bd7e0-a53b-4758-93dd-0d1b89ead904",
+            "name": "Gorgeous Frozen Table",
+            "createdAt": 1670334871600,
+            "updateAt": 1670334871600
+        },
+        {
+            "id": "c3775ad8-321e-410c-b4a6-d4fe815c47ec",
+            "name": "Gorgeous Steel Soap",
+            "createdAt": 1670334871600,
+            "updateAt": 1670334871600
+        },
+        {
+            "id": "093af00c-c2ac-4139-b480-4714f242830e",
+            "name": "Unbranded Frozen Towels",
+            "createdAt": 1670334871600,
+            "updateAt": 1670334871600
+        },
+        {
+            "id": "d66af929-ab20-4fa3-abe0-07f7bc7de02e",
+            "name": "Incredible Wooden Chair",
+            "createdAt": 1670334871600,
+            "updateAt": 1670334871600
+        }
+    ],
+    "products": [
+        {
+            "categoryId": "1401fd82-1b66-4b51-aa00-2d5628e5db1e",
+            "id": "83c015e0-3bab-46ef-a089-b7ecb798fdda",
+            "name": "Luxurious Cotton Car",
+            "color": [
+                "#d7ad39",
+                "#e6d4ca",
+                "#3b76cc"
+            ],
+            "code": "722567",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 33,
+            "oldPrice": 110,
+            "newPrice": 77,
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1670334871601,
+            "updateAt": 1670334871601,
+            "imgUrl": "https://loremflickr.com/640/480/technics",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/sports?72903"
+        },
+        {
+            "categoryId": "1401fd82-1b66-4b51-aa00-2d5628e5db1e",
+            "id": "5db66e6e-014c-4c3e-9149-76440da55c49",
+            "name": "Unbranded Soft Tuna",
+            "color": [
+                "#54af0a",
+                "#ccc0b4",
+                "#2fbf9d"
+            ],
+            "code": "975714",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 13,
+            "oldPrice": 910,
+            "newPrice": 530,
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "createdAt": 1670334871602,
+            "updateAt": 1670334871602,
+            "imgUrl": "https://loremflickr.com/640/480/city",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/sports?79687"
+        },
+        {
+            "categoryId": "1401fd82-1b66-4b51-aa00-2d5628e5db1e",
+            "id": "9ab30155-d915-43c4-9ea4-cf6c6bfe509e",
+            "name": "Modern Bronze Soap",
+            "color": [
+                "#cdaa12",
+                "#fbea12",
+                "#d62fdd"
+            ],
+            "code": "571148",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 38,
+            "oldPrice": 84,
+            "newPrice": 388,
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "createdAt": 1670334871602,
+            "updateAt": 1670334871602,
+            "imgUrl": "https://loremflickr.com/640/480/fashion",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/transport?8556"
+        },
+        {
+            "categoryId": "1401fd82-1b66-4b51-aa00-2d5628e5db1e",
+            "id": "8d05d1a8-8045-4693-9e75-af42de5e30b5",
+            "name": "Small Plastic Fish",
+            "color": [
+                "#cef7f3",
+                "#a3bebc",
+                "#d60be9"
+            ],
+            "code": "446174",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 20,
+            "oldPrice": 435,
+            "newPrice": 275,
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "createdAt": 1670334871602,
+            "updateAt": 1670334871602,
+            "imgUrl": "https://loremflickr.com/640/480/business",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/cats?74209"
+        },
+        {
+            "categoryId": "1401fd82-1b66-4b51-aa00-2d5628e5db1e",
+            "id": "7137758b-41d2-4fa2-a13c-3a9a7fb5ac6f",
+            "name": "Bespoke Concrete Shoes",
+            "color": [
+                "#0daeae",
+                "#79e162",
+                "#a9b0fe"
+            ],
+            "code": "440181",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 44,
+            "oldPrice": 878,
+            "newPrice": 57,
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "createdAt": 1670334871602,
+            "updateAt": 1670334871602,
+            "imgUrl": "https://loremflickr.com/640/480/people",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/sports?71934"
+        },
+        {
+            "categoryId": "d16bd7e0-a53b-4758-93dd-0d1b89ead904",
+            "id": "1930ca31-6d6c-40be-876d-e3bcb7c992ca",
+            "name": "Modern Rubber Soap",
+            "color": [
+                "#38cdcf",
+                "#bdb1bc",
+                "#47aac0"
+            ],
+            "code": "461729",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 13,
+            "oldPrice": 459,
+            "newPrice": 557,
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1670334871602,
+            "updateAt": 1670334871602,
+            "imgUrl": "https://loremflickr.com/640/480/cats",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/nature?52766"
+        },
+        {
+            "categoryId": "d16bd7e0-a53b-4758-93dd-0d1b89ead904",
+            "id": "6721aed2-4b19-4606-8231-b6614aabc0ad",
+            "name": "Gorgeous Soft Sausages",
+            "color": [
+                "#a09db1",
+                "#9ba8af",
+                "#d973ca"
+            ],
+            "code": "545586",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 44,
+            "oldPrice": 786,
+            "newPrice": 99,
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/city",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/animals?3371"
+        },
+        {
+            "categoryId": "d16bd7e0-a53b-4758-93dd-0d1b89ead904",
+            "id": "51d10244-6ae3-4de2-b8e5-e4b3ffcd71f6",
+            "name": "Sleek Plastic Cheese",
+            "color": [
+                "#09e9cc",
+                "#abd8ca",
+                "#ae7ee0"
+            ],
+            "code": "390817",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 16,
+            "oldPrice": 166,
+            "newPrice": 383,
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/abstract",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/business?78675"
+        },
+        {
+            "categoryId": "d16bd7e0-a53b-4758-93dd-0d1b89ead904",
+            "id": "b6f67040-90ff-43bf-bd79-292b1030711b",
+            "name": "Electronic Frozen Gloves",
+            "color": [
+                "#776aa2",
+                "#c5667b",
+                "#cedbdb"
+            ],
+            "code": "425222",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 39,
+            "oldPrice": 238,
+            "newPrice": 397,
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/city",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/fashion?46461"
+        },
+        {
+            "categoryId": "d16bd7e0-a53b-4758-93dd-0d1b89ead904",
+            "id": "a966269b-c10c-4d7f-8896-53a8828bb9e5",
+            "name": "Incredible Rubber Shoes",
+            "color": [
+                "#159b1d",
+                "#69dabb",
+                "#9c82aa"
+            ],
+            "code": "739386",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 45,
+            "oldPrice": 63,
+            "newPrice": 854,
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/nightlife",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/people?77417"
+        },
+        {
+            "categoryId": "c3775ad8-321e-410c-b4a6-d4fe815c47ec",
+            "id": "fd01d791-4ad1-4a46-acab-cf3b792bebd4",
+            "name": "Ergonomic Frozen Fish",
+            "color": [
+                "#deb93c",
+                "#78abb5",
+                "#80eacf"
+            ],
+            "code": "470945",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 14,
+            "oldPrice": 335,
+            "newPrice": 163,
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/nature",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/animals?68517"
+        },
+        {
+            "categoryId": "c3775ad8-321e-410c-b4a6-d4fe815c47ec",
+            "id": "a114f33f-b107-4592-ba21-4387942e8bdb",
+            "name": "Ergonomic Soft Gloves",
+            "color": [
+                "#52a396",
+                "#ff0583",
+                "#f38e4e"
+            ],
+            "code": "075590",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 29,
+            "oldPrice": 235,
+            "newPrice": 102,
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/business",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/abstract?68953"
+        },
+        {
+            "categoryId": "c3775ad8-321e-410c-b4a6-d4fe815c47ec",
+            "id": "15ad6830-8ea1-4a25-a3fb-c7e98a018a51",
+            "name": "Small Soft Shoes",
+            "color": [
+                "#3fbd61",
+                "#63dd96",
+                "#f6daf0"
+            ],
+            "code": "485880",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 12,
+            "oldPrice": 252,
+            "newPrice": 614,
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/nature",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/nightlife?54877"
+        },
+        {
+            "categoryId": "c3775ad8-321e-410c-b4a6-d4fe815c47ec",
+            "id": "3edac2e8-a117-4523-94a7-0228a89e1a21",
+            "name": "Recycled Steel Sausages",
+            "color": [
+                "#2ea734",
+                "#ce6efa",
+                "#a9c3aa"
+            ],
+            "code": "059592",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 23,
+            "oldPrice": 962,
+            "newPrice": 263,
+            "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/animals",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/fashion?4807"
+        },
+        {
+            "categoryId": "c3775ad8-321e-410c-b4a6-d4fe815c47ec",
+            "id": "68d71a95-10a1-403f-b006-59077bb61f55",
+            "name": "Recycled Rubber Salad",
+            "color": [
+                "#b8d678",
+                "#9dec06",
+                "#26c76c"
+            ],
+            "code": "936792",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 25,
+            "oldPrice": 842,
+            "newPrice": 103,
+            "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+            "createdAt": 1670334871603,
+            "updateAt": 1670334871603,
+            "imgUrl": "https://loremflickr.com/640/480/nightlife",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/sports?16564"
+        },
+        {
+            "categoryId": "093af00c-c2ac-4139-b480-4714f242830e",
+            "id": "85ae6ad5-fac4-40d0-b2a6-2aecd9dacef4",
+            "name": "Unbranded Plastic Table",
+            "color": [
+                "#ca51ab",
+                "#cf2b60",
+                "#829041"
+            ],
+            "code": "281475",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 30,
+            "oldPrice": 133,
+            "newPrice": 986,
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/cats",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/cats?59093"
+        },
+        {
+            "categoryId": "093af00c-c2ac-4139-b480-4714f242830e",
+            "id": "5c676bf7-feb3-471a-840a-82c57e6cd911",
+            "name": "Tasty Metal Towels",
+            "color": [
+                "#db6dbf",
+                "#47bbef",
+                "#456e8c"
+            ],
+            "code": "012221",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 40,
+            "oldPrice": 680,
+            "newPrice": 185,
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/business",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/cats?50376"
+        },
+        {
+            "categoryId": "093af00c-c2ac-4139-b480-4714f242830e",
+            "id": "58eaf9cd-96e4-474b-9bc4-d663b674c9af",
+            "name": "Incredible Concrete Computer",
+            "color": [
+                "#ddad17",
+                "#9bc32d",
+                "#f1085d"
+            ],
+            "code": "507516",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 29,
+            "oldPrice": 828,
+            "newPrice": 318,
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/cats",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/business?86747"
+        },
+        {
+            "categoryId": "093af00c-c2ac-4139-b480-4714f242830e",
+            "id": "752396ed-16a7-410f-9e12-48a0291bdf62",
+            "name": "Small Frozen Bacon",
+            "color": [
+                "#16ae4c",
+                "#d0a82d",
+                "#3a7a42"
+            ],
+            "code": "575106",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 41,
+            "oldPrice": 781,
+            "newPrice": 789,
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/people",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/nightlife?86425"
+        },
+        {
+            "categoryId": "093af00c-c2ac-4139-b480-4714f242830e",
+            "id": "2bba2292-4375-43b4-b201-09cf27ac0fe1",
+            "name": "Small Frozen Computer",
+            "color": [
+                "#e7075f",
+                "#e47008",
+                "#3a2bd7"
+            ],
+            "code": "956132",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 42,
+            "oldPrice": 945,
+            "newPrice": 410,
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/food",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/cats?88019"
+        },
+        {
+            "categoryId": "d66af929-ab20-4fa3-abe0-07f7bc7de02e",
+            "id": "df21b611-a06a-4d7e-8769-04bc440901f3",
+            "name": "Tasty Frozen Tuna",
+            "color": [
+                "#e66b4d",
+                "#1c346f",
+                "#e9afee"
+            ],
+            "code": "577415",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 36,
+            "oldPrice": 684,
+            "newPrice": 32,
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/food",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/animals?92865"
+        },
+        {
+            "categoryId": "d66af929-ab20-4fa3-abe0-07f7bc7de02e",
+            "id": "ead9c259-5db2-4d79-835b-06f527b71c9c",
+            "name": "Bespoke Rubber Tuna",
+            "color": [
+                "#ea2dee",
+                "#8c6cc3",
+                "#cd2d4b"
+            ],
+            "code": "102983",
+            "size": "XL",
+            "rating": 5,
+            "sale": false,
+            "ratingCount": 50,
+            "oldPrice": 359,
+            "newPrice": 535,
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/sports",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/food?4758"
+        },
+        {
+            "categoryId": "d66af929-ab20-4fa3-abe0-07f7bc7de02e",
+            "id": "6341b3db-51e3-40dd-bd1b-8949d6432157",
+            "name": "Tasty Metal Hat",
+            "color": [
+                "#bf8c2d",
+                "#9cddd8",
+                "#ff64a7"
+            ],
+            "code": "632635",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 34,
+            "oldPrice": 261,
+            "newPrice": 870,
+            "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/city",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/food?78896"
+        },
+        {
+            "categoryId": "d66af929-ab20-4fa3-abe0-07f7bc7de02e",
+            "id": "02f2de66-2896-4ceb-bb3b-6fac00073f23",
+            "name": "Tasty Cotton Salad",
+            "color": [
+                "#b87bf9",
+                "#4dc903",
+                "#2babd9"
+            ],
+            "code": "741846",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 25,
+            "oldPrice": 542,
+            "newPrice": 181,
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/fashion",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/nightlife?12263"
+        },
+        {
+            "categoryId": "d66af929-ab20-4fa3-abe0-07f7bc7de02e",
+            "id": "af2c9bb7-9676-4f96-92a0-7abcae16cf24",
+            "name": "Luxurious Cotton Table",
+            "color": [
+                "#5f3dcc",
+                "#4c3c29",
+                "#cf738f"
+            ],
+            "code": "437531",
+            "size": "XL",
+            "rating": 5,
+            "sale": true,
+            "ratingCount": 43,
+            "oldPrice": 789,
+            "newPrice": 699,
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "createdAt": 1670334871604,
+            "updateAt": 1670334871604,
+            "imgUrl": "https://loremflickr.com/640/480/nightlife",
+            "thumbnaiUrl": "https://loremflickr.com/400/400/transport?99581"
+        }
+    ],
+    "profile": {
+        "name": "Along"
+    }
+}

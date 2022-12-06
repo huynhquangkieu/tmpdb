@@ -1,0 +1,73 @@
+# @bareUrl = http://localhost:3000/api
+
+
+# # Categories
+
+# # @name getAllPosts
+# GET {{bareUrl}}/posts
+
+# ###
+
+# # @name addNewPost
+# POST {{bareUrl}}/posts
+# Content-Type: application/json
+
+# {
+    
+#     "title": "New post",
+#     "author": "Kieu huynh"
+# }
+
+# ###
+
+# # @name updateAPost
+# PATCH  {{bareUrl}}/posts/3
+# Content-Type: application/json
+
+# {
+    
+#     "title": "POST 2 was edited by author"
+# }
+
+# ###
+
+# # @name addNewPost
+# DELETE  {{bareUrl}}/posts/5
+
+
+@bareUrl = http://localhost:3000/api
+
+@resourceName = categories
+
+
+# Category
+
+# @name getAll
+GET {{bareUrl}}/{{resourceName}}
+
+###
+
+# @name addNew
+POST {{bareUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    
+    "name": "Laptop"
+}
+
+###
+
+# @name updateA
+PATCH  {{bareUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+    
+    "name": "A New Laptop"
+}
+
+###
+
+# @name remove
+DELETE  {{bareUrl}}/{{resourceName}}/5
