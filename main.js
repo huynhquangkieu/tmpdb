@@ -3,6 +3,7 @@ const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 const queryString = require('query-string')
+var express = require('express');
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares)
@@ -56,6 +57,12 @@ router.render = (req, res) => {
 
 // Use default router
 server.use("/api", router)
+
+server.use(express.static('assets'));
+
+//Serves all the request which includes /images in the url from Images folder
+server.use('/images', express.static(__dirname + '/images'));
+server.use('/icons', express.static(__dirname + '/icons'));
 
 // Start server 
 const PORT = process.env.PORT || 3000;
